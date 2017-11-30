@@ -1089,3 +1089,6 @@ Create object use `lobject_create` ,example
 		sizeof(struct an_object), an_object_method);
 
 All `LOBJECT_METHOD_XXX` defined in `lobject.h`.  More example please check lemon's source code.
+
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
